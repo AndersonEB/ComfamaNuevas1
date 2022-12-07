@@ -1,6 +1,6 @@
 #ENTRADAS DEL POBLEMA
 
-nivelAgua = int(input("Digita el nu¿ivel de agua:  "))
+nivelAgua = int(input("Digita el nuivel de agua:  "))
 #EVALUANDO CAMINOS MÚLTIPLES
 if nivelAgua <= 100:
     print("Bajo nivel de agua")
